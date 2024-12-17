@@ -99,6 +99,7 @@ class _HomedesignPageState extends State<HomedesignPage> {
                 ),
                 padding: const EdgeInsets.symmetric(horizontal: 15),
                 child: const Row(
+
                   children: [
                     Icon(Icons.search, color: Colors.grey),
                     SizedBox(width: 10),
